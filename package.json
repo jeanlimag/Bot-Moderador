@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "common-tags": "^1.8.2",
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1",
+    "node": "^16.13.2",
+    "node.js": "^0.0.1-security",
+    "quick.db": "^7.1.3",
+    "react-moment": "^1.1.1"
+  },
+  "name": "discord-moderation-bot-main",
+  "description": "#### Requirements & Steps * This Project * Node.js, Discord.js Installed * Discord Bot Token, Prefix * Edit the `config.js and owner.json` file * Run `npm i` once in Terminal to install Dependencies * Run `node index.js` to ***RUN*** the bot.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nan",
+  "license": "ISC"
+}
